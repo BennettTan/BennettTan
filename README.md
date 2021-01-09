@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <I'm Bennett and I am a UBC undergraduate student who is interested in learning more about the tech industry! >
+
 <Check out my personal portfolio website: https://bennetttan.github.io/ >
